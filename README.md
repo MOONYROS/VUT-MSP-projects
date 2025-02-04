@@ -1,4 +1,4 @@
-# VUT Statistics and Probability
+# VUT Statistics and Probability (2024/2025)
 
 ## Project evaluations
 
